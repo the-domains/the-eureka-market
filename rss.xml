@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[The Eureka Market on The Grid]]></title>
         <description><![CDATA[The Eureka Market on The Grid]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/the-eureka-market/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Apr 2016 17:01:09 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 13 Apr 2016 17:03:19 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/the-eureka-market/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6ca16929-8792-4c9a-b30a-ba8d62586ee5.png">]]></description>
+            <link>https://thegrid.ai/the-eureka-market/19b7f062-886f-40f0-ac56-7b439a3e6f36/index.html</link>
+            <guid isPermaLink="false">19b7f062-886f-40f0-ac56-7b439a3e6f36</guid>
+            <pubDate>Wed, 13 Apr 2016 17:03:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e15311a1-f721-47cd-8041-99c4969b089f.png">]]></description>
-            <link>undefinedee044b9c-48eb-4fb1-bdbe-cfb09c8f2b01/index.html</link>
+            <link>https://thegrid.ai/the-eureka-market/ee044b9c-48eb-4fb1-bdbe-cfb09c8f2b01/index.html</link>
             <guid isPermaLink="false">ee044b9c-48eb-4fb1-bdbe-cfb09c8f2b01</guid>
             <pubDate>Wed, 13 Apr 2016 17:01:02 GMT</pubDate>
         </item>
